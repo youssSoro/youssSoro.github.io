@@ -3,7 +3,7 @@ layout: post
 tags: Reading
 title: 20 things absolutely worthwhile in life
 date: 2021-06-04
-author: "Aaron John"
+author: "Youssouf Soro"
 ---
 
 Copied this from Quora onto my notes (in the past.) Author is unknown.
